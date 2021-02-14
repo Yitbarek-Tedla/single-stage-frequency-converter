@@ -1,2 +1,2 @@
 # single-stage-frequency-converter
-The idea is to design a single stage frequency converter so as to control speed of an induction motor.
+The idea is to design a single stage frequency converter so as to control speed of an induction motor. Multisim Simulation software is used for simulation. MPLAB IDE was used for writing the header and C programs for the PIC microcontroller. The microcontroller is used to trigger the GTOs (Gate Turn Off) sequentially. GTO is used in the design of this single phase to single phase cycloconverters as it does not really involve high power ratings and it can easily be turned on by a positive gate current and turned off by a negative gate current at its gate cathode terminals.
