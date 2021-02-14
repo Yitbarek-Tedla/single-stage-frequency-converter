@@ -14,3 +14,5 @@ The idea is to design a single stage frequency converter so as to control speed 
 > - Go to the path '*New.X\dist\default\production*' <br> 
 > - Then select the *.hex* file <br>
 > - Press *ok* then enjoy simulating!! <br>
+## Block Diagram for Single Stage Frequency Converter 
+![Single Stage Block Diagram](onest.png)
